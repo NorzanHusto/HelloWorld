@@ -1,4 +1,5 @@
 update from MacBook 08-07-2015
+after delete omittee@aol.com
 
 HelloWorld
 first repo for norzan.husto
